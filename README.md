@@ -1,2 +1,2 @@
 # Rotated_BB_Annotations
-This repository contains rotated bounding annotations for DTU-Drone inspection images dataset and Blade30 dataset
+This repository contains rotated bounding box annotations for DTU-Drone inspection images and Blade30 datasets.
