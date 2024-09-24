@@ -21,6 +21,9 @@ Comapring Jensen-Shannon Distribution (JSD) - symmetric, Gaussian Wasserstein Di
 DTU-Drone Inspection images and Blade30
 
 ## Citation
-If you use this work in your research, please cite our paper:
-``bibtex (To be appear soon)
-Optimizing Wind Turbine Surface Defect Detection: A Rotated Bounding Box Approach. EUSIPCO 2024.
+@inproceedings{gohar2024optimizing,
+  title={Optimizing Wind Turbine Surface Defect Detection: A Rotated Bounding Box Approach},
+  author={Gohar, Imad and Halimi, Abderrahim and Kean, Yew Weng and See, John},
+  booktitle={32nd European conference on signal processing 2024},
+  year={2024}
+}
