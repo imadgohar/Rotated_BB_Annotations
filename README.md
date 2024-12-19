@@ -20,9 +20,7 @@ Comapring Jensen-Shannon Distribution (JSD) - symmetric, Gaussian Wasserstein Di
 
 # Project Poster
 
-<object data="./Poster_EUSIPCO2024_V4.pdf" type="application/pdf" width="100%" height="500px">
-    <a href="./Poster_EUSIPCO2024_V4">Download Project Poster</a>
-</object>
+<img src="./Poster_EUSIPCO2024_V4-1.png" alt="Project Poster" width="800">
 
 
 ## Datasets
