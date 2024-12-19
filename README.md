@@ -6,7 +6,7 @@ Detecting surface defects on Wind Turbine Blades (WTBs) from remotely sensed ima
 
 Standard Bounding Box vs. Oriented Bounding Box:
 
-![bb_comparison](https://github.com/imadgohar/Rotated_BB_Annotations/assets/45845910/9bc8363d-d253-4c64-8f52-9dab49be37c9.
+![bb_comparison](https://github.com/imadgohar/Rotated_BB_Annotations/assets/45845910/9bc8363d-d253-4c64-8f52-9dab49be37c9).
 
 ## Advantages Over standard BBox
 - OBB localization is more tighter than standard BB
@@ -15,7 +15,7 @@ Standard Bounding Box vs. Oriented Bounding Box:
 
 ## Visual Results
 Comapring Jensen-Shannon Distribution (JSD) - symmetric, Gaussian Wasserstein Distance (GWD), RIoU and Hybrid Loss function.
-![RFcos_Test_set_results_comparison_cropped (1)](https://github.com/imadgohar/Rotated_BB_Annotations/assets/45845910/b3505027-f744-42b3-9f37-520d72b6ea9d.
+![RFcos_Test_set_results_comparison_cropped (1)](https://github.com/imadgohar/Rotated_BB_Annotations/assets/45845910/b3505027-f744-42b3-9f37-520d72b6ea9d).
 
 
 # Project Poster
