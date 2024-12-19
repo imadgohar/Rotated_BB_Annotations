@@ -17,6 +17,10 @@ Standard Bounding Box vs. Oriented Bounding Box:
 Comapring Jensen-Shannon Distribution (JSD) - symmetric, Gaussian Wasserstein Distance (GWD), RIoU and Hybrid Loss function.
 ![RFcos_Test_set_results_comparison_cropped (1)](https://github.com/imadgohar/Rotated_BB_Annotations/assets/45845910/b3505027-f744-42b3-9f37-520d72b6ea9d)
 
+## Poster
+[Poster_EUSIPCO2024_V4.pdf](https://github.com/user-attachments/files/18192180/Poster_EUSIPCO2024_V4.pdf)
+
+
 ## Datasets
 DTU-Drone Inspection images and Blade30
 
