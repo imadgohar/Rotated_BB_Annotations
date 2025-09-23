@@ -27,9 +27,14 @@ DTU-Drone Inspection images and Blade30
 
 ## Citation
 ~~~bibtex
-@inproceedings{gohar2024optimizing,
-  title={Optimizing Wind Turbine Surface Defect Detection: A Rotated Bounding Box Approach},
-  author={Gohar, Imad and Halimi, Abderrahim and Kean, Yew Weng and See, John},
-  booktitle={32nd European conference on signal processing 2024},
-  year={2024}
+@INPROCEEDINGS{10715208,
+  author={Gohar, Imad and Halimi, Abderrahim and Yew, Weng Kean and See, John},
+  booktitle={2024 32nd European Signal Processing Conference (EUSIPCO)}, 
+  title={Optimizing Wind Turbine Surface Defect Detection: A Rotated Bounding Box Approach}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={631-635},
+  keywords={Location awareness;Visualization;Soft sensors;Signal processing;Wind turbines;Satellite images;Reliability;Remote sensing;Standards;Defect detection;wind turbine blade;surface defect detection;oriented bounding boxes;UAV remote sensing},
+  doi={10.23919/EUSIPCO63174.2024.10715208}}
 }
